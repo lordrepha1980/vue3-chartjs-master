@@ -1,10 +1,10 @@
 Simple Vue3 wrapper for [Chart.js](https://www.chartjs.org/)
 
-#Install
+# Install
 `npm i vue3-chartjs-master`
 
 
-#Example
+# Example
 
 ```html
 <!-- html -->

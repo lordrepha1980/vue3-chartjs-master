@@ -1,10 +1,16 @@
 {
   "name": "vue3-chartjs-master",
-  "private": true,
   "type": "commonjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./dist/vue3-chartjs-master.umd.js",
   "module": "./dist/vue3-chartjs-master.es.js",
+  "author": {
+    "name": "Christoph Duengel",
+    "email": "freelancer@christoph-duengel.de",
+    "url": "christoph-duengel.de"
+  },
+  "repository": "https://github.com/lordrepha1980/vue3-chartjs-master",
+  "license": "ISC",
   "files": [
     "dist"
   ],
